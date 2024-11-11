@@ -8,7 +8,7 @@ Código base de la interfaz Nike Hecha en React.js y Tailwind CSS.
 
 ## Vista En Versión Desktop
 
-![Vista_En_Versión_Desktop](src/assets/design/desktop-preview.jpg)
+![Vista_En_Versión_Desktop](src/assets/design/desktop-design.jpg)
 
 ## Vista En Versión Mobile
 
@@ -18,7 +18,7 @@ Código base de la interfaz Nike Hecha en React.js y Tailwind CSS.
 
 ## Enlace A La Aplicación
 
-- [Nike Clone](https://axe10rellana-nike-clone.netlify.app/)
+- [Nike Clone](https://nike-clone-ui.netlify.app/)
 
 ---
 
